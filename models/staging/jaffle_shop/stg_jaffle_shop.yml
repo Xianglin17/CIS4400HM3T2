@@ -46,7 +46,6 @@ models:
       - name : amount
         description : The amount of transaction
 
-
       
 
 
